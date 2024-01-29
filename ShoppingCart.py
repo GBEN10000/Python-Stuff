@@ -1,5 +1,6 @@
 input1=int(input())
 dict={}
+
 for i in range(input1):
     inp=input().split()
     name,para=inp[0],inp[1]
